@@ -7,16 +7,16 @@ The Solution
 Solution is a Bot that loops the download,desktop or any other folder and determines the file type for each and every file. Subsequently, it creates a folder for that file type. All files with the same file type will be transferred to this folder and or Organise by Date.
 We use .Net Core to make it cross platform. but same code work well for .Net Framework ,.Net Standard and on Xamarin so it work on every popular device today.
 
-##Config File
+## Config File
 ```csv
 WatchPath,D:\test\watch
 OrgPath,D:\test\org
 file extension,folder name
 ```
 
-##Tutorial Links
-(Youtube)https://www.youtube.com/watch?v=0e_oliJMlhs
-(Medium)https://medium.com/@rizwan3d/how-i-organise-my-downloads-folder-with-net-core-c-automation-18445ef4279f
+## Tutorial Links
+https://www.youtube.com/watch?v=0e_oliJMlhs
+https://medium.com/@rizwan3d/how-i-organise-my-downloads-folder-with-net-core-c-automation-18445ef4279f
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
